@@ -145,7 +145,7 @@ img {
   background-position: center center;
     background-image: linear-gradient(rgba(0, 0, 0, 0.6),
           rgba(0, 0, 0, 0.6)),
-        url("/images/img-1.jpg");
+        url("images/img-1.jpg");
 }
 
 .hero-title {
