@@ -143,10 +143,9 @@ img {
   text-align: center;
   background-size: cover;
   background-position: center center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6),
-          rgba(0, 0, 0, 0.6)),
-        url("images/img-1.jpg");
-}
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+        url("../images/img-1.jpg");
+    }
 
 .hero-title {
   max-width: 496px;
