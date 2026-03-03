@@ -399,3 +399,30 @@ ul {
   height: 100%;
   display: block;
 }
+
+.icon-title {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-top: 8px;
+  list-style: none;
+  padding: 0;
+}
+
+.team-card .svg-image {
+  width: 40px;
+  height: 40px;
+}
+
+.footer .footer-social-list {
+  display: flex;
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+}
+
+.footer .footer-social-link {
+  display: block;
+  width: 40px;
+  height: 40px;
+}
